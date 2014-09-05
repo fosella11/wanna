@@ -1,4 +1,9 @@
-package com.wanna;
+package com.wanna.ui;
+
+import com.wanna.R;
+import com.wanna.R.id;
+import com.wanna.R.layout;
+import com.wanna.R.menu;
 
 import android.app.Activity;
 import android.app.Fragment;
